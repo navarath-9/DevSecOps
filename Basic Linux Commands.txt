@@ -1,0 +1,6 @@
+1. To know present Working directory - pwd - pwd
+
+
+
+
+
